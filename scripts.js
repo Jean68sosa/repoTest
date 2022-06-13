@@ -8,3 +8,8 @@ const user = {
     status: 'online',
     name: 'user1'
 }
+
+const course = {
+    name: 'course 1',
+    hours: 2
+}
